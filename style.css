@@ -1,0 +1,38 @@
+body {
+    background-size:cover;
+    }
+
+    .heading {
+        font-size:20px;
+        width:100%;
+        margin:0px;
+    }
+
+    #status {
+        font-size:18px;
+    }
+
+    #Start {
+        font-size:18px;
+    }
+
+    #number_of_objects {
+        font-size:18px;
+    }
+
+    canvas {
+        border:6px solid white;
+        border-radius: 10px;
+        margin-top:130px;
+        box-shadow: 5px 5px 5px white;
+    }
+
+    .copy_right_footer {
+        position:fixed;
+        color:pink;
+        bottom:0;
+        width:100%;
+        background-color:grey;
+        line-height:2;
+        text-align:center;
+}
